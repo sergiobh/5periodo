@@ -1,0 +1,47 @@
+﻿Manual da Disciplina:
+====== == ==========
+
+* Presença.
+- Será feita 1 chamada em cada dia.
+- Tenho hábito de chegar no horário. Libero mais cedo sempre que possível. Continuo na sala até que o último vá embora. DESFRUTE DO RECURSO!
+- Atestado não repõe falta
+- Dou bomba por falta (MEC)
+- Muita falta no início gera situação ruim no final
+- Em caso de falta em dia de avaliação, apresentar atestado na secretaria com até 48hs para ter direito a substitutiva.
+
+* Provas
+- 2 provas de 30 pontos
+- 1 prova alternativa que substitui a prova de menor nota
+- 1 prova substitutiva institucional para quem perder prova e atestar o motivo em até 48 horas na secretaria
+- Revisão antes das provas
+- Provas baseadas nos roteiros, exercícios e explicações em sala de aula (VIR NA AULA)
+
+* Trabalhos Práticos
+- Definir dupla no começo do semestre e enviar para o professor, não poderá ser alterada
+- Se definir por fazer sozinho, não poderá formar dupla posteriormente
+- O mais importante dos trabalhos: conseguir responder as perguntas por conta própria
+	> Não copiar do colega
+	> Não copiar da internet
+	> Fazer etapas do roteiro 1º, tentar responder depois como forma de exercício
+- Não é por que seu programa está rodando na aula que você vai passar na disciplina
+- Na 2ª etapa será olhado projeto por projeto e será feita arguição em cima do código
+- Enviar no prazo com perguntas respondidas adequadamente: total
+- Enviar até 1 semana depois do prazo com perguntas respondidas adequadamente: metade
+- Enviar após 1 semana: não vale nada
+
+* Aprovação
+- UNA: 70 pontos ou mais para aprovação (difícil)
+- O semestre só termina quando acaba: aguarde a prova especial para chorar nota.
+- Historicamente 20% tem ido para a especial (12/60)
+- Historicamente 10% da turma tem tomado bomba (5/60)
+- Maior causa de dificuldade: falta de base em programação geral:
+	> Ex: crie um método que receba 2 parametros inteiros e retorne boolean
+	> Ex: adicione uma propriedade na classe
+	> Ex: crie uma tag animal com o valor "teste" no atributo nome
+	> Formar sem saber programar? Não precisa ser um gênio, mas pelo menos uma vez na vida você precisa escrever um programa funcional do zero e ver rodando.
+	> A dupla pode ajudar nisso.
+- Grandes exemplos de alunos que chegaram sem background e aprenderam com a disciplina conseguindo média superior a 80
+
+* Projeto Aplicado
+- Nota compartilhada: 20 pontos, sendo 10 da avaliação consensual do trabalho escrito (média dos professores), 10 da banca
+- Pode te ajudar ou prejudicar bastante: Não dependa dessa nota vs. Invista no PA
