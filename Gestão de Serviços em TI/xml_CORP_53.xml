@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<helpdesk>
+<origem>CORP</origem>
+<incidente><atendente><cpf>11111111111</cpf>
+<nome>Sérgio Macedo</nome>
+</atendente>
+<solicitante><cpf>22222222222</cpf>
+<nome>fabio</nome>
+</solicitante>
+<descricao>O sistema do financeiro não está aceitando dar baixa no título do cliente 12345</descricao>
+<titulo>Erro no módulo do ERP</titulo>
+<abertura>1396563678</abertura>
+</incidente>
+</helpdesk>
